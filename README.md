@@ -62,3 +62,5 @@ We get all the Insights from our project
 5.Standard classes ship mode getting maximum sales.
 
 6.Same day ship mode ship mode getting minimum sales.
+
+![Screenshot 2](https://github.com/jnana027/Tech-Tip-24-sales-Analysis/assets/120124430/045ce55b-88f7-4d03-8da8-76ed1ae6e0a5)
