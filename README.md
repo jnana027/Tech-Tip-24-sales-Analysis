@@ -44,3 +44,5 @@ KPI's:
 >Overall Quantity.
 
 >Overall shipping Cost.
+
+![Screenshot 1](https://github.com/jnana027/Tech-Tip-24-sales-Analysis/assets/120124430/996c5d2c-e2f8-4657-abb6-6fc3082245ad)
