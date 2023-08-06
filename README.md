@@ -46,3 +46,19 @@ KPI's:
 >Overall shipping Cost.
 
 ![Screenshot 1](https://github.com/jnana027/Tech-Tip-24-sales-Analysis/assets/120124430/996c5d2c-e2f8-4657-abb6-6fc3082245ad)
+
+Insights:
+
+We get all the Insights from our project
+
+1.Technology catagory have maximum sales.
+
+2.Office Supplies catagory have minimum sales.
+
+3.APAC market getting maximum sales.
+
+4.Canada market getting minimum sales.
+
+5.Standard classes ship mode getting maximum sales.
+
+6.Same day ship mode ship mode getting minimum sales.
