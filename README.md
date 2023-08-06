@@ -8,9 +8,39 @@ Tools Used:
 Excel,Sql,Power BI
 
 Requirement:
+
 1.Which catagory have maximum sales.
+
 2.Which catagory have miniimum sales .
+
 3.Which market getting maximum sales.
+
 4.Which market getting minimum sales.
+
 5.Which ship mode getting maximum sales.
+
 6.Which ship mode  getting manimum sales.
+
+7.Top 5 Performing country based on maximum sales.
+
+8.Bottom 5 Performing country based on maximum sales.
+
+9.Top 5 state based on sales.
+
+10.Bottom 5 state based on sales.
+
+KPI's:
+
+>Count number of Countries.
+
+>Count number of State.
+
+>Count number of City.
+
+>Overall sales.
+
+>Overall profit.
+
+>Overall Quantity.
+
+>Overall shipping Cost.
