@@ -1,0 +1,26 @@
+Requirement:
+1.Which catagory have maximum sales Technology.
+2.Which catagory have maximum sales Office Supplies.
+3.Which catagory have maximum sales Application.
+4.Which market getting maximum sales.
+5.Which market getting minimum sales.
+6.Which ship mode getting maximum sales.
+7.Which ship mode  getting manimum sales.
+
+KPI's:
+>Count number of Countries.
+>Count number of State.
+>Count number of City.
+>Overall sales.
+>Overall profit.
+>Overall Quantity.
+>Overall shipping Cost.
+
+8.Top 5 Performing country based on maximum sales.
+9.Bottom 5 Performing country based on maximum sales.
+10.Top 5 state based on sales.
+11.Bottom 5 state based on sales.
+
+Slicer:
+Catagory
+Market

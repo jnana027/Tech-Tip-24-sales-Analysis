@@ -1,0 +1,9 @@
+Steps of Data analytics Project lifecycle:
+1. Understanding the Business
+2.Understanding the data
+3.Load the data into the power BI
+4.Create Visualization
+5.Create report and Dashboard
+6.Show the client
+7.Give them support for changes
+8.Give them future support or updation
