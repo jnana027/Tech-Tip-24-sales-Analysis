@@ -6,3 +6,11 @@ Sales analysis is the process of examining sales data and metrics to gain insigh
 
 Tools Used:
 Excel,Sql,Power BI
+
+Requirement:
+1.Which catagory have maximum sales.
+2.Which catagory have miniimum sales .
+3.Which market getting maximum sales.
+4.Which market getting minimum sales.
+5.Which ship mode getting maximum sales.
+6.Which ship mode  getting manimum sales.
